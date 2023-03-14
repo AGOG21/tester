@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Ruluko', sans-serif;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.300);
+}
+
+hr{
+    border-width: 3px;
+    border-color: rgb(150, 120, 250);
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/6b/71/e0/6b71e0c74e6b42f53de0cefb7884f704.gif);
+}
+
+li{
+    color: aliceblue;
+    font-family: 'Ruluko', sans-serif;
+    background-color: rgba(0, 0, 0, 0.300);
+}
